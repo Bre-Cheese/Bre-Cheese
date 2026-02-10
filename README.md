@@ -11,4 +11,4 @@ I'm a **software engineering** student at TRU
 ---
 *Skills:*
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,docker,mint,ps,vscode,wordpress )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,docker,mint,ps,vscode,wordpress,notion )](https://skillicons.dev)
